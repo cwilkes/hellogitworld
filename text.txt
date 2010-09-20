@@ -7,3 +7,5 @@ More on the branch
 Some changes on the branch
 
 Something
+
+A change in Seattle
